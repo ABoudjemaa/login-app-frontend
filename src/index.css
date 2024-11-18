@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.min-h-screen-hero{
+ min-height: calc(100vh - 170px);
+}
